@@ -1,3 +1,11 @@
+/**
+* Fibonacci Sequence Update JavaDoc. 
+* The purpose of this document is to explain what the purpose of this code is.
+* The code will obtain a number of the Fibonacci sequence based on the entered value n.
+* @author Luis Jimenez  
+*
+*/
+
 import java.util.*;
 public class mainClass
 {
